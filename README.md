@@ -16,8 +16,10 @@ PCB Layout: <img width="1143" height="846" alt="Screenshot 2026-10-26 at 10 37 1
 
 ## Software & Tools
 - KiCad - Schematic and PCB design
+- KMK - Firmware for the MIDI Keyboard
 
 ## Repository Contents
-- [/PCB](/PCB) - KiCad Schematic and PCB Design Files
+- [PCB/](PCB/) - KiCad Schematic and PCB Design Files
+- [Firmware/](Firmware/) - KMK Firmware files
 
 ## Bill Of Materials 

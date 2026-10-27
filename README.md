@@ -1,4 +1,4 @@
-# MIDI-Keyboard
+# MIDI-Boardie
 Half Life Hack Club Week 3 - MIDI Keypad
 
 <img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/26a9d613-90de-49ec-b506-7cf01f190ec7" />
